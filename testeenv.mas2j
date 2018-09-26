@@ -1,0 +1,9 @@
+MAS agentSimulation {
+
+	infrastructure: Centralised
+
+	agents: liz;
+
+	aslSourcePath: 
+		"src/asl";
+}

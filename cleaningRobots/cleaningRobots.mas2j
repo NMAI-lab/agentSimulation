@@ -10,5 +10,5 @@ MAS cleaningRobots {
 		r2;
 
 	aslSourcePath:
-		"src/asl";
+		"src/asl/";
 }

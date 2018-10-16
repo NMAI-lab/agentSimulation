@@ -1,0 +1,14 @@
+MAS cleaningRobots {
+
+	infrastructure: Centralised
+
+	environment: "src/java/MarsEnv.java"
+
+	agents:
+		//agent1 sample_agent;
+		r1;
+		r2;
+
+	aslSourcePath:
+		"src/asl";
+}

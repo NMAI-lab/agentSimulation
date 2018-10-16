@@ -2,7 +2,7 @@ MAS cleaningRobots {
 
 	infrastructure: Centralised
 
-	environment: "src/java/MarsEnv.java"
+	environment: MarsEnv
 
 	agents:
 		//agent1 sample_agent;

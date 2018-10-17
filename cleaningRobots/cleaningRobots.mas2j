@@ -5,9 +5,9 @@ MAS cleaningRobots {
 	environment: MarsEnv
 
 	agents:
-		//agent1 sample_agent;
 		r1;
 		r2;
+		//r3;
 
 	aslSourcePath:
 		"src/asl/";

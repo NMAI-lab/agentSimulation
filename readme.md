@@ -1,4 +1,4 @@
-###DEPRECATED DON'T USE THIS!
+###DEPRECATED DON'T USE THIS! USE THIS INSTEAD: https://github.com/NMAI-lab/SAVI
 
 # agentSimulation
 
